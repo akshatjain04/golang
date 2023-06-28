@@ -16,17 +16,16 @@ func toggle(status string) {
 }
 func main() {
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		path := r.URL.Path
 		http.ServeFile(w, r, "index.html")
-	})
-	http.HandleFunc("/on", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "index.html")
-		toggle("up")
-	})
-	http.HandleFunc("/off", func(w http.ResponseWriter, r *http.Request) {
-		http.ServeFile(w, r, "index.html")
-		toggle("down")
-	})
 
+		if strings.EqualFold(path, "/on") {
+			toggle("up")
+		} else if strings.EqualFold(path, "/off") {
+			toggle("down")
+		}
+	})
+	
 	log.Fatal(http.ListenAndServe(":5000", nil))
 }
 
