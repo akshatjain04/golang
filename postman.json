@@ -1,153 +1,102 @@
 {
-    "profileId": 675,
-    "uuid": "uuidXYZ",
-    "dateCreated": "2023-07-05T06:42:40",
-    "dateModified": "2023-07-05T06:42:40",
-    "externalKey": "externalKeyXYZ",
-    "isActive": true,
-    "prefix": "prefixXYZ",
-    "suffix": "suffixXYZ",
-    "firstName": "firstNameXYZ",
-    "middleName": "middleNameXYZ",
-    "lastName": "lastNameXYZ",
-    "badgeName": "badgeNameXYZ",
-    "dob": "2023-07-05T06:42:40",
-    "position": "positionXYZ",
-    "organization": "organizationXYZ",
-    "phone": "phoneXYZ",
-    "phone2": "phone2XYZ",
-    "phoneMobile": "phoneMobileXYZ",
-    "fax": "faxXYZ",
-    "email": "emailXYZ",
-    "ccAssistantOnEmails": true,
-    "ccAssociateOnEmails": true,
-    "accountCode": "accountCodeXYZ",
-    "profilePin": "profilePinXYZ",
-    "pkProfileId": "pkProfileIdXYZ",
-    "showOnline": true,
-    "imported": true,
-    "source": "sourceXYZ",
-    "media": {
-        "url": "urlXYZ",
-        "photo": "photoXYZ"
-    },
-    "socialMedias": [
-        {
-            "type": "typeXYZ",
-            "url": "urlXYZ"
-        }
-    ],
-    "privatePersonal": {
-        "dob": "2023-07-05T06:42:40",
-        "gender": "genderXYZ"
-    },
-    "assistant": {
-        "assistantName": "assistantNameXYZ",
-        "assistantEmail": "assistantEmailXYZ",
-        "assistantPhone": "assistantPhoneXYZ"
-    },
-    "travel": {
-        "loginId": "loginIdXYZ",
-        "freqFlyerProgram": "freqFlyerProgramXYZ",
-        "freqFlyerNumber": "freqFlyerNumberXYZ",
-        "seatPreference": "seatPreferenceXYZ",
-        "passportNumber": "passportNumberXYZ",
-        "passportFirstName": "passportFirstNameXYZ",
-        "passportLastName": "passportLastNameXYZ",
-        "passportCountry": "passportCountryXYZ",
-        "passportExpirationDate": "2023-07-05T06:42:40"
-    },
-    "associate": {
-        "associateName": "associateNameXYZ",
-        "associateEmail": "associateEmailXYZ",
-        "associatePhone": "associatePhoneXYZ"
-    },
-    "notes": "notesXYZ",
-    "address": {
-        "line1": "line1XYZ",
-        "line2": "line2XYZ",
-        "line3": "line3XYZ",
-        "line4": "line4XYZ",
-        "city": "cityXYZ",
-        "state": "stateXYZ",
-        "intlState": "intlStateXYZ",
-        "countryCode": "countryCodeXYZ",
-        "country": "countryXYZ",
-        "postalCode": "postalCodeXYZ"
-    },
-    "altAddress": {
-        "line1": "line1XYZ",
-        "line2": "line2XYZ",
-        "line3": "line3XYZ",
-        "line4": "line4XYZ",
-        "city": "cityXYZ",
-        "state": "stateXYZ",
-        "intlState": "intlStateXYZ",
-        "countryCode": "countryCodeXYZ",
-        "country": "countryXYZ",
-        "postalCode": "postalCodeXYZ"
-    },
-    "shipAddress": {
-        "line1": "line1XYZ",
-        "line2": "line2XYZ",
-        "line3": "line3XYZ",
-        "line4": "line4XYZ",
-        "city": "cityXYZ",
-        "state": "stateXYZ",
-        "intlState": "intlStateXYZ",
-        "countryCode": "countryCodeXYZ",
-        "country": "countryXYZ",
-        "postalCode": "postalCodeXYZ"
-    },
-    "profileQuestions": {
-        "question": [
-            {
-                "questionField": "questionFieldXYZ",
-                "questionId": 831,
-                "questionCode": "questionCodeXYZ",
-                "questionName": "questionNameXYZ",
-                "answers": {
-                    "answer": [
-                        {
-                            "answerId": 775,
-                            "answerCode": "answerCodeXYZ",
-                            "value": "valueXYZ",
-                            "answerValue": "answerValueXYZ"
-                        }
-                    ]
-                }
-            }
-        ]
-    },
-    "password": "passwordXYZ",
-    "events": {
-        "event": [
-            {
-                "registrationCode": "registrationCodeXYZ",
-                "eventCode": "eventCodeXYZ",
-                "eventName": "eventNameXYZ"
-            }
-        ]
-    },
-    "dataPrivacyPolicies": {
-        "policy": [
-            {
-                "policyType": "policyTypeXYZ",
-                "externalId": "externalIdXYZ",
-                "privacyComplianceDate": "2023-07-05T06:42:40",
-                "entryPoint": "entryPointXYZ"
-            }
-        ]
-    },
-    "integrationExternalKeys": [
-        {
-            "externalKey": "externalKeyXYZ",
-            "connectionUuid": "connectionUuidXYZ",
-            "isActive": true,
-            "isPrimary": true,
-            "actionTypeCode": "actionTypeCodeXYZ",
-            "dateCreated": "2023-07-05T06:42:40",
-            "dateModified": "2023-07-05T06:42:40"
-        }
-    ]
+	"info": {
+		"_postman_id": "f87e45bd-5999-4342-b4e5-19d24e1f8db1",
+		"name": "Certain2.0",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "870119",
+		"_collection_link": "https://www.postman.com/grey-flare-920594/workspace/dev-public/collection/870119-f87e45bd-5999-4342-b4e5-19d24e1f8db1?action=share&creator=870119&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "Profile",
+			"item": [
+				{
+					"name": "JSON",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://example.com/certainExternal/service/v1/Profile/:accountCode/:profilePin",
+							"protocol": "https",
+							"host": [
+								"example",
+								"com"
+							],
+							"path": [
+								"certainExternal",
+								"service",
+								"v1",
+								"Profile",
+								":accountCode",
+								":profilePin"
+							],
+							"variable": [
+								{
+									"key": "accountCode",
+									"value": null
+								},
+								{
+									"key": "profilePin",
+									"value": null
+								}
+							]
+						},
+						"description": "| Return the ProfileObj from the specified account with the indicated profile code. Will return only one Profile object as a JSON object. |"
+					},
+					"response": [
+						{
+							"name": "JSON",
+							"originalRequest": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://{{hostname}}/certainExternal/service/v1/Profile/:accountCode/:profilePin",
+									"protocol": "https",
+									"host": [
+										"{{hostname}}"
+									],
+									"path": [
+										"certainExternal",
+										"service",
+										"v1",
+										"Profile",
+										":accountCode",
+										":profilePin"
+									],
+									"variable": [
+										{
+											"key": "accountCode",
+											"value": null
+										},
+										{
+											"key": "profilePin",
+											"value": null
+										}
+									]
+								}
+							},
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Content-Type",
+									"value": "application/json",
+									"name": "Content-Type",
+									"description": "",
+									"type": "text"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"profileId\": 675,\n    \"uuid\": \"uuidXYZ\",\n    \"dateCreated\": \"2023-07-05T06:42:40\",\n    \"dateModified\": \"2023-07-05T06:42:40\",\n    \"externalKey\": \"externalKeyXYZ\",\n    \"isActive\": true,\n    \"prefix\": \"prefixXYZ\",\n    \"suffix\": \"suffixXYZ\",\n    \"firstName\": \"firstNameXYZ\",\n    \"middleName\": \"middleNameXYZ\",\n    \"lastName\": \"lastNameXYZ\",\n    \"badgeName\": \"badgeNameXYZ\",\n    \"dob\": \"2023-07-05T06:42:40\",\n    \"position\": \"positionXYZ\",\n    \"organization\": \"organizationXYZ\",\n    \"phone\": \"phoneXYZ\",\n    \"phone2\": \"phone2XYZ\",\n    \"phoneMobile\": \"phoneMobileXYZ\",\n    \"fax\": \"faxXYZ\",\n    \"email\": \"emailXYZ\",\n    \"ccAssistantOnEmails\": true,\n    \"ccAssociateOnEmails\": true,\n    \"accountCode\": \"accountCodeXYZ\",\n    \"profilePin\": \"profilePinXYZ\",\n    \"pkProfileId\": \"pkProfileIdXYZ\",\n    \"showOnline\": true,\n    \"imported\": true,\n    \"source\": \"sourceXYZ\",\n    \"media\": {\n        \"url\": \"urlXYZ\",\n        \"photo\": \"photoXYZ\"\n    },\n    \"socialMedias\": [\n        {\n            \"type\": \"typeXYZ\",\n            \"url\": \"urlXYZ\"\n        }\n    ],\n    \"privatePersonal\": {\n        \"dob\": \"2023-07-05T06:42:40\",\n        \"gender\": \"genderXYZ\"\n    },\n    \"assistant\": {\n        \"assistantName\": \"assistantNameXYZ\",\n        \"assistantEmail\": \"assistantEmailXYZ\",\n        \"assistantPhone\": \"assistantPhoneXYZ\"\n    },\n    \"travel\": {\n        \"loginId\": \"loginIdXYZ\",\n        \"freqFlyerProgram\": \"freqFlyerProgramXYZ\",\n        \"freqFlyerNumber\": \"freqFlyerNumberXYZ\",\n        \"seatPreference\": \"seatPreferenceXYZ\",\n        \"passportNumber\": \"passportNumberXYZ\",\n        \"passportFirstName\": \"passportFirstNameXYZ\",\n        \"passportLastName\": \"passportLastNameXYZ\",\n        \"passportCountry\": \"passportCountryXYZ\",\n        \"passportExpirationDate\": \"2023-07-05T06:42:40\"\n    },\n    \"associate\": {\n        \"associateName\": \"associateNameXYZ\",\n        \"associateEmail\": \"associateEmailXYZ\",\n        \"associatePhone\": \"associatePhoneXYZ\"\n    },\n    \"notes\": \"notesXYZ\",\n    \"address\": {\n        \"line1\": \"line1XYZ\",\n        \"line2\": \"line2XYZ\",\n        \"line3\": \"line3XYZ\",\n        \"line4\": \"line4XYZ\",\n        \"city\": \"cityXYZ\",\n        \"state\": \"stateXYZ\",\n        \"intlState\": \"intlStateXYZ\",\n        \"countryCode\": \"countryCodeXYZ\",\n        \"country\": \"countryXYZ\",\n        \"postalCode\": \"postalCodeXYZ\"\n    },\n    \"altAddress\": {\n        \"line1\": \"line1XYZ\",\n        \"line2\": \"line2XYZ\",\n        \"line3\": \"line3XYZ\",\n        \"line4\": \"line4XYZ\",\n        \"city\": \"cityXYZ\",\n        \"state\": \"stateXYZ\",\n        \"intlState\": \"intlStateXYZ\",\n        \"countryCode\": \"countryCodeXYZ\",\n        \"country\": \"countryXYZ\",\n        \"postalCode\": \"postalCodeXYZ\"\n    },\n    \"shipAddress\": {\n        \"line1\": \"line1XYZ\",\n        \"line2\": \"line2XYZ\",\n        \"line3\": \"line3XYZ\",\n        \"line4\": \"line4XYZ\",\n        \"city\": \"cityXYZ\",\n        \"state\": \"stateXYZ\",\n        \"intlState\": \"intlStateXYZ\",\n        \"countryCode\": \"countryCodeXYZ\",\n        \"country\": \"countryXYZ\",\n        \"postalCode\": \"postalCodeXYZ\"\n    },\n    \"profileQuestions\": {\n        \"question\": [\n            {\n                \"questionField\": \"questionFieldXYZ\",\n                \"questionId\": 831,\n                \"questionCode\": \"questionCodeXYZ\",\n                \"questionName\": \"questionNameXYZ\",\n                \"answers\": {\n                    \"answer\": [\n                        {\n                            \"answerId\": 775,\n                            \"answerCode\": \"answerCodeXYZ\",\n                            \"value\": \"valueXYZ\",\n                            \"answerValue\": \"answerValueXYZ\"\n                        }\n                    ]\n                }\n            }\n        ]\n    },\n    \"password\": \"passwordXYZ\",\n    \"events\": {\n        \"event\": [\n            {\n                \"registrationCode\": \"registrationCodeXYZ\",\n                \"eventCode\": \"eventCodeXYZ\",\n                \"eventName\": \"eventNameXYZ\"\n            }\n        ]\n    },\n    \"dataPrivacyPolicies\": {\n        \"policy\": [\n            {\n                \"policyType\": \"policyTypeXYZ\",\n                \"externalId\": \"externalIdXYZ\",\n                \"privacyComplianceDate\": \"2023-07-05T06:42:40\",\n                \"entryPoint\": \"entryPointXYZ\"\n            }\n        ]\n    },\n    \"integrationExternalKeys\": [\n        {\n            \"externalKey\": \"externalKeyXYZ\",\n            \"connectionUuid\": \"connectionUuidXYZ\",\n            \"isActive\": true,\n            \"isPrimary\": true,\n            \"actionTypeCode\": \"actionTypeCodeXYZ\",\n            \"dateCreated\": \"2023-07-05T06:42:40\",\n            \"dateModified\": \"2023-07-05T06:42:40\"\n        }\n    ]\n}"
+						}
+					]
+				}
+			]
+		}
+	],
+	"variable": [
+		{
+			"key": "hostname",
+			"value": "example.com"
+		}
+	]
 }
