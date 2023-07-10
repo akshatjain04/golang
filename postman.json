@@ -16,11 +16,10 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://example.com/certainExternal/service/v1/Profile/:accountCode/:profilePin",
+							"raw": "https://{{hostname}}/certainExternal/service/v1/Profile/:accountCode/:profilePin",
 							"protocol": "https",
 							"host": [
-								"example",
-								"com"
+								"{{hostname}}"
 							],
 							"path": [
 								"certainExternal",
