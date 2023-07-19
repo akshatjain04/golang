@@ -1,0 +1,2 @@
+accountCode,profileId,uuid,externalKey,firstName,lastName,email,username,password
+123456,987654,50e55080-5b14-11ec-8d3d-0242ac130003,ABC123,John,Doe,johndoe@gmail.com,johndoe,pass1234
