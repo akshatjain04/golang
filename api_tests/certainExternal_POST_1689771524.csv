@@ -1,0 +1,2 @@
+accountCode,eventCode,eventName,eventStatus,notes,startDate,endDate,timezone
+AC1234,EC5678,Conference,Active,Important event,2022-01-01,2022-01-03,EST
