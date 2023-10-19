@@ -1,0 +1,9 @@
+petId,additionalMetadata,file
+12345,This is a test metadata,document1.pdf
+67890,Another test metadata,document2.pdf
+23456,Additional metadata here,document3.pdf
+78901,More metadata,document4.pdf
+34567,Testing metadata,document5.pdf
+90123,Different metadata,document6.pdf
+45678,Yet more metadata,document7.pdf
+01234,Final metadata,document8.pdf

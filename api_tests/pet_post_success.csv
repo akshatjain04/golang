@@ -1,0 +1,11 @@
+id,category id,category name,name,photoUrls,tags id,tags name,status
+1,101,Mammal,Fido,https://example.com/photo1.jpg,201,Good,available
+2,102,Bird,Tweety,https://example.com/photo2.jpg,202,Small,pending
+3,103,Fish,Nemo,https://example.com/photo3.jpg,203,Colorful,sold
+4,104,Reptile,Shelly,https://example.com/photo4.jpg,204,Slow,available
+5,105,Mammal,Buddy,https://example.com/photo5.jpg,205,Friendly,pending
+6,106,Bird,Chirpy,https://example.com/photo6.jpg,206,Loud,sold
+7,107,Fish,Goldie,https://example.com/photo7.jpg,207,Shiny,available
+8,108,Reptile,Slither,https://example.com/photo8.jpg,208,Long,pending
+9,109,Mammal,Whiskers,https://example.com/photo9.jpg,209,Soft,sold
+10,110,Bird,Feathers,https://example.com/photo10.jpg,210,Bright,available

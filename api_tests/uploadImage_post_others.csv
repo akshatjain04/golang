@@ -1,0 +1,11 @@
+petId,additionalMetadata,file
+12345,This is a test record,document1.pdf
+67890,,document2.pdf
+123abc,Additional data for record 3,
+,Additional data for record 4,document4.pdf
+56789,This is a test record,
+12345,This is a test record,document6.pdf
+abc123,,document7.pdf
+,Additional data for record 8,document8.pdf
+99999,This is a test record,
+12345,Additional data for record 10,document10.pdf
