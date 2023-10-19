@@ -1,0 +1,16 @@
+id,category_id,category_name,name,photoUrls,tag_id,tag_name,status
+347,28,Mammals,Fluffy,http://fluffyphotos.com/1,56,Furry,available
+,45,Reptiles,Slither,http://slitherphotos.com/2,89,Slick,sold
+539,12,Birds,Tweety,http://tweetypics.com/3,34,Feathered,available
+823,,Insects,Buzzy,http://buzzypics.com/4,78,Buzzing,pending
+,98,Fish,Finny,http://finnypics.com/5,11,Scaly,
+234,67,Amphibians,Croaky,http://croakypics.com/6,,Croaking,available
+678,23,Mammals,Whiskers,,90,Furry,sold
+,34,Reptiles,Scaly,http://scalypics.com/7,56,Slick,pending
+789,56,Birds,Chirpy,http://chirpypics.com/8,45,Feathered,available
+234,,Insects,Buzzy,http://buzzypics.com/9,78,Buzzing,sold
+456,78,Fish,Glubby,,23,Scaly,pending
+123,90,Amphibians,Jumpers,http://jumperpics.com/10,67,Jumpy,available
+827,12,Mammals,Woofy,http://woofypics.com/11,34,Furry,sold
+345,45,Reptiles,Slinky,http://slinkypics.com/12,78,Slick,pending
+273,67,Birds,Feather,http://featherpics.com/13,90,Feathered,available

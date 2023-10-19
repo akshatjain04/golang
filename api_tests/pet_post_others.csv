@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1234,Dog,Bruno,https://image1.com,tag1,available
+5678,Cat,,https://image2.com,tag2,pending
+9012,Bird,Kiki,https://image3.com,,sold
+3456,Fish,Nemo,https://image4.com,tag4,available
+7890,Rabbit,Bugs,https://image5.com,tag5,pending
+2345,Hamster,Hammy,,tag6,sold
+6789,Snake,Sly,https://image7.com,tag7,available
+0123,Turtle,Shelly,https://image8.com,,pending
+4567,Horse,Henry,https://image9.com,tag9,sold
+8901,Dog,,https://image10.com,tag10,available

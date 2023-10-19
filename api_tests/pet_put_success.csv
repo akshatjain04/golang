@@ -1,0 +1,11 @@
+id,category_id,category_name,name,photoUrls,tags_id,tags_name,status
+1234,2,Dogs,Max,http://example.com/dog.jpg,101,Friendly,available
+5678,3,Cats,Whiskers,http://example.com/cat.jpg,102,Independent,pending
+9101,4,Birds,Tweety,http://example.com/bird.jpg,103,Social,sold
+1121,1,Fish,Goldie,http://example.com/fish.jpg,104,Colorful,available
+3141,5,Reptiles,Slither,http://example.com/reptile.jpg,105,Cool,pending
+5161,6,Rodents,Cheddar,http://example.com/rodent.jpg,106,Cute,sold
+7181,2,Dogs,Buddy,http://example.com/dog2.jpg,107,Loyal,available
+9201,3,Cats,Mittens,http://example.com/cat2.jpg,108,Playful,pending
+1222,4,Birds,Chirpy,http://example.com/bird2.jpg,109,Vocal,sold
+3242,1,Fish,Bubbles,http://example.com/fish2.jpg,110,Swimmer,available
